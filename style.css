@@ -113,7 +113,7 @@ img {
         opacity: 1;
     }
     100% {
-        transform: ranslate(0, 140px);
+        transform: translate(0, 140px);
         opacity: 0;
     }
 }
